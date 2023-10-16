@@ -1,0 +1,5 @@
+2. What is OOP? List OOP concepts
+=> Object-oriented programming aims to implement real-world entities like inheritance, hiding, polymorphism etc. in programming. The main aim of OOP is to bind together the data and the functions that operate on them so that no other part of the code can access this data except that function.
+
+3. What is the difference between OOP and POP?
+=> OOP refers to Object Oriented Programming. It deals with objects and their properties. POP refers to Procedural Oriented Programming and deals with programs and functions. An object-oriented program uses the bottom-up approach.
